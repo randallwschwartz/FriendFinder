@@ -7,7 +7,7 @@
 // var tableData = require("../data/tableData");
 // var waitListData = require("../data/waitinglistData");
 
-var friendData = require("../data/friendData");
+var friendData = require("../data/friends");
 
 // ===============================================================================
 // ROUTING
