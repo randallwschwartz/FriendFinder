@@ -1,1 +1,3 @@
 # FriendFinder
+
+The FriendFinder site is a full-stack application designed to match people according to compatibility.  Initially, the application provides a survey of 10 questions to be answered by the user.  Once the answers are submitted to the database, the application compares the user's answers to answers provided by other people.  The application then displays the name and photo of the closest match.
